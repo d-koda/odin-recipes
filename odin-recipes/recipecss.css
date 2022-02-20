@@ -1,0 +1,32 @@
+.list {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    text-decoration-line: underline;
+    font-size:small;
+}
+
+.ingredients {
+    color:blueviolet
+}
+
+.directions {
+    color:orange;
+}
+
+img {
+    height: auto;
+    width: 800px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1 {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    text-decoration-line: underline;
+}
