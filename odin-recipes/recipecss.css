@@ -5,11 +5,19 @@
 }
 
 .ingredients {
-    color:blueviolet
+    color:blueviolet;
+    display:inline-block;
+    width: 500px;
+    height:auto;
+    padding: 5px;
 }
 
 .directions {
     color:orange;
+    display:inline-block;
+    width: 500px;
+    height:auto;
+    padding: 5px;
 }
 
 img {
@@ -34,5 +42,5 @@ h3 {
 }
 
 * {
-    border: 2px solid red;
+    border:2px solid red;
 }
