@@ -18,6 +18,8 @@ img {
     display:block;
     margin-left:auto;
     margin-right:auto;
+    padding: 20px;
+    border: 20px;
 }
 
 h1 {
@@ -29,4 +31,8 @@ h1 {
 h3 {
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
     text-decoration-line: underline;
+}
+
+* {
+    border: 2px solid red;
 }
